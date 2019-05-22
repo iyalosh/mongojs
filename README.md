@@ -383,3 +383,5 @@ Get the name of the collection.
 ##### `bulk.toString()`
 
 ##### `bulk.tojson()`
+#   m o n g o j s  
+ 
